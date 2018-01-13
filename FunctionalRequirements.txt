@@ -1,0 +1,36 @@
+Functional Requirements
+-------------------------------------------------------------------------------------------------------------------------------
+
+Members
+=================
+Members must be able to:
+  - Log in to their meetup accounts
+  - View their profile
+  - Update their profile
+  - View WWCode Kingston group member profiles
+  - Message WWCode Kingston members
+  - Share Meetup
+  - View About WWCode
+  - Change password (via Meetup website)
+
+New Users
+=================
+New users should be able to:
+  - Create a new account (they will be redirected to the meetup website, and redirected to the application once registration 
+                          is complete)
+
+Events
+=================
+App should:
+  - List all WWCode Kingston meetup events
+  - Allow members to RSVP to events
+  - Allow members to comment on events
+  - View RSVPs for events
+  - Send members push notifications for events (7 days, 3 days and 1 day before event)
+  - Allow members to add events to their calendars
+  - Allow members to add reminders for events
+  
+  
+  
+  
+ 
